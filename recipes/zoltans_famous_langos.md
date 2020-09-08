@@ -1,6 +1,7 @@
 ### Zoltan's Famous Langos
 
-####Ingredients:
+#### Ingredients:
+
     Potato (I make instant mashed potatoes, a serving for two people)
     1 packet of yeast
     1 teaspoon sugar
@@ -9,7 +10,8 @@
     3/4 teaspoon salt.
     1/2 cup milk.
     2 cloves garlic, pealed
-####Directions:
+    
+#### Directions:
 
 #####  Dough
     - Place warm mashed potatoes, yeast, sugar, flour, oil, salt, and milk into a medium mixing bowl.
